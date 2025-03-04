@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KidPaddle591
-- 👀 I’m interested in solana
-- 🌱 I’m currently learning the basics to become a flullstack dev
-- I'm the founder of SolutioFi
-- 💞️ I’m looking to collaborate on whaterver people want to work on
+- 👀 Solana
+- 🌱 Dev student
+- I'm the cofounder of SolutioFi
 - 📫 How to reach kidpaddle591@gmail.com
 
 <!---
